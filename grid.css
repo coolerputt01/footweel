@@ -1,0 +1,41 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    font-family: sans-serif;
+}
+
+body{
+    display: flex;
+    background-color: #c37e42;
+    font-family: "Agency FB",sans-serif;
+}
+
+.Picture{
+    width:530px;
+    height:550px;
+    float:left;
+    margin-left:50px;
+    border-radius: 10px;
+    margin-top:10px;
+    margin-right: 160px;
+}
+.Content{
+    font-size: 26px;
+    font-weight: 900px;
+    height: 550px;
+    width:350px;
+}
+.link{
+    color: #8d0e00;
+}
+.button{
+    height: 70px;
+    width:350px;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color:blue;
+    cursor: crosshair;
+}
